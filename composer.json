@@ -1,5 +1,5 @@
 {
-    "name": "oodle/email-parse",
+    "name": "rmitvn/oodle-email-parse",
     "type": "library",
     "description": "email-parse a (reasonably) RFC822 / RF2822-compliant library for parsing multiple (and single) email addresses",
     "license": "TBD",
